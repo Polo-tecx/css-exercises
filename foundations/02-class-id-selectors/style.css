@@ -1,0 +1,18 @@
+.odd {
+    background-color: #fa757e;
+    font-family: Verdana, "DejaVu Sans", sans-serif,;
+}
+
+.bigger-font-size {
+    font-size: 24px;
+}
+
+#nmbr2 {
+    color:rgb(0, 0, 185);
+    font-size: 36px;
+}
+
+#nmbr4 {
+    background-color: rgb(114, 248, 114);
+    font-weight: bold;
+}
